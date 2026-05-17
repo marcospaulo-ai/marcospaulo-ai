@@ -1,16 +1,25 @@
-## Hi there 👋
+# Marcos Paulo
 
-<!--
-**marcospaulo-ai/marcospaulo-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Automation Enthusiast focused on building digital solutions, automation systems and customer acquisition projects.
 
-Here are some ideas to get you started:
+## Skills
+- AI Automation
+- HTML/CSS
+- JavaScript
+- Landing Pages
+- n8n
+- GitHub
+- Digital Solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Modern Barbers Landing Page
+- Bombastic Sound Automation
+- Método MP
+
+## Current Focus
+Building real-world automation and AI-powered systems.
+
+## Contact
+- LinkedIn
+- GitHub
+- Email
