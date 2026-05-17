@@ -1,25 +1,21 @@
 # Marcos Paulo
 
-AI & Automation Enthusiast focused on building digital solutions, automation systems and customer acquisition projects.
+AI & Automation Enthusiast focused on building real-world digital solutions.
 
-## Skills
-- AI Automation
-- HTML/CSS
-- JavaScript
-- Landing Pages
-- n8n
-- GitHub
-- Digital Solutions
+I build:
+- Landing pages for businesses
+- AI-powered automation systems
+- Client acquisition frameworks
 
 ## Projects
-- Modern Barbers Landing Page
-- Bombastic Sound Automation
-- Método MP
+- Modern Barbers Landing Page → https://marcospaulo-ai.github.io/modern-barbers-lp/
+- Método MP → https://metodomp.dev.br/
+- Bombastic Automation (in development)
 
-## Current Focus
-Building real-world automation and AI-powered systems.
+## Focus
+- AI applied to business
+- Automation systems
+- Digital acquisition strategies
 
-## Contact
-- LinkedIn
-- GitHub
-- Email
+## Location
+Campinas, Brazil
