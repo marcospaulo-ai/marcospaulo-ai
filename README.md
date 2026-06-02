@@ -1,29 +1,48 @@
-# Marcos Paulo Duarte
+# Olá, eu sou o Marcos Paulo Duarte! 👋
 
-CRM | Data | Automation | AI
+> **CRM | Dados | Automação | IA**  
+> Desenvolvendo projetos com SQL, Power BI, n8n e APIs para transformar dados em resultados de negócios.
 
-Technology enthusiast focused on CRM, business automation, and data-driven solutions.
+📍 Campinas - SP, Brasil  
+💼 Buscando oportunidades em: *Análise de CRM, Ops (CS/Revenue), Data & BI ou Automação de Processos.*
 
-Currently building projects involving:
+---
 
-• CRM and customer acquisition systems
-• Business process automation (n8n & APIs)
-• SQL and data analysis
-• Landing pages and digital solutions
-• AI-powered workflows
+### 🚀 Sobre Mim & Foco Técnico
 
-Projects:
+Sou um entusiasta de tecnologia focado em **estruturar dados, automatizar processos e otimizar a aquisição de clientes**. Atualmente, construo soluções que integram o código com a estratégia de negócios:
 
-• Modern Barbers – Landing Page & Digital Presence
-• Método MP – AI-Powered Client Acquisition System
-• Bombastic Automation – Workflow Automation Project
+- 📊 **Inteligência de Dados:** Modelagem e visualização com SQL e Power BI.
+- ⚙️ **Automação (Ops):** Criação de fluxos de trabalho inteligentes com n8n e consumo de APIs.
+- 🤖 **Soluções com IA:** Engenharia de prompt e fluxos integrados para conversão e produtividade.
+- 💻 **Web & CRM:** Landing pages de alta conversão focadas na jornada do cliente.
 
-Currently seeking opportunities in:
+---
 
-• CRM Analysis
-• Customer Success Operations
-• Technical Support
-• Data & Business Intelligence
-• Automation and Process Improvement
+### 📁 Projetos em Destaque
 
-📍 Brazil
+#### 💈 Ecossistema para Barbearia (Case Real)
+Uma solução ponta a ponta focada em presença digital e inteligência comercial para negócios locais.
+- **[Modern Barbers Landing Page](https://github.com):** Interface moderna, responsiva (mobile-first) e focada em conversão de leads.
+- **[Barbershop Business Intelligence](https://github.com):** Dashboard no Power BI que identifica gargalos de faturamento, ticket médio e propõe insights estratégicos baseados em dados reais.
+
+#### 🤖 Automação & IA
+- **[Método MP](https://github.com):** Landing page para um sistema de aquisição de clientes alimentado por IA, focado em geração de leads.
+- **[Automação Bombástica](https://github.com):** Projeto focado no desenho e execução de fluxos de trabalho automatizados (n8n/APIs).
+
+---
+
+### 🛠️ Toolbox (Tecnologias e Ferramentas)
+
+- **Linguagens & Web:** HTML5, CSS3, JavaScript, SQL
+- **Dados & BI:** Power BI, Excel Avançado
+- **Automação & CRM:** n8n, Integrações via APIs, Ferramentas de CRM
+
+---
+
+### 🤝 Vamos nos conectar?
+
+Se você quer conversar sobre dados, automação ou tem uma oportunidade alinhada com o meu perfil:
+- 📧 **E-mail:** [marcospauloduarte233@gmail.com]
+- 💼 **LinkedIn:** [www.linkedin.com/in/marcos-paulo-duarte2703]
+
