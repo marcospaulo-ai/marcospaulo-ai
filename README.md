@@ -1,21 +1,29 @@
-# Marcos Paulo
+# Marcos Paulo Duarte
 
-AI & Automation Enthusiast focused on building real-world digital solutions.
+CRM | Data | Automation | AI
 
-I build:
-- Landing pages for businesses
-- AI-powered automation systems
-- Client acquisition frameworks
+Technology enthusiast focused on CRM, business automation, and data-driven solutions.
 
-## Projects
-- Modern Barbers Landing Page → https://marcospaulo-ai.github.io/modern-barbers-lp/
-- Método MP → https://metodomp.dev.br/
-- Bombastic Automation (in development)
+Currently building projects involving:
 
-## Focus
-- AI applied to business
-- Automation systems
-- Digital acquisition strategies
+• CRM and customer acquisition systems
+• Business process automation (n8n & APIs)
+• SQL and data analysis
+• Landing pages and digital solutions
+• AI-powered workflows
 
-## Location
-Campinas, Brazil
+Projects:
+
+• Modern Barbers – Landing Page & Digital Presence
+• Método MP – AI-Powered Client Acquisition System
+• Bombastic Automation – Workflow Automation Project
+
+Currently seeking opportunities in:
+
+• CRM Analysis
+• Customer Success Operations
+• Technical Support
+• Data & Business Intelligence
+• Automation and Process Improvement
+
+📍 Brazil
