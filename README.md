@@ -23,12 +23,12 @@ Sou um entusiasta de tecnologia focado em **estruturar dados, automatizar proces
 
 #### 💈 Ecossistema para Barbearia (Case Real)
 Uma solução ponta a ponta focada em presença digital e inteligência comercial para negócios locais.
-- **[Modern Barbers Landing Page](https://github.com):** Interface moderna, responsiva (mobile-first) e focada em conversão de leads.
-- **[Barbershop Business Intelligence](https://github.com):** Dashboard no Power BI que identifica gargalos de faturamento, ticket médio e propõe insights estratégicos baseados em dados reais.
+- **[www.ModernBarbers.com.br):** Interface moderna, responsiva (mobile-first) e focada em conversão de leads.
+- **[https://github.com/marcospaulo-ai/barbershop-business-intelligence):** Dashboard no Power BI que identifica gargalos de faturamento, ticket médio e propõe insights estratégicos baseados em dados reais.
 
 #### 🤖 Automação & IA
-- **[Método MP](https://github.com):** Landing page para um sistema de aquisição de clientes alimentado por IA, focado em geração de leads.
-- **[Automação Bombástica](https://github.com):** Projeto focado no desenho e execução de fluxos de trabalho automatizados (n8n/APIs).
+- **[Método MP](metodomp.com.br):** Landing page para um sistema de aquisição de clientes alimentado por IA, focado em geração de leads.
+- **[Automação Bombástica]:** Projeto focado no desenho e execução de fluxos de trabalho automatizados (n8n/APIs).
 
 ---
 
